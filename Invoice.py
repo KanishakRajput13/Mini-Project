@@ -15,7 +15,7 @@ root = tk.Tk()
 root.title("Invoice Generator")
 
 # Google Maps API Key
-API_KEY = 'AIzaSyDEEAzIeGC9L7Rchjiy8qjdZq_9U-HIn_w'
+API_KEY = 'MY API KEY'
 gmaps = googlemaps.Client(key=API_KEY)
 
 # Order ID
